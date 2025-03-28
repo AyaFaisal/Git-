@@ -6,4 +6,4 @@ git clone
 git log --oneline
 git statusgi
 git init 
-git checkout -b
+git checkou
