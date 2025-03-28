@@ -1,3 +1,2 @@
-
 # Git-
-hello aya
+This is the first project implemented
