@@ -4,5 +4,6 @@ git add .
 git commit -m " "
 git clone
 git log --oneline
-git status
-git init
+git statusgi
+git init 
+git checkou
